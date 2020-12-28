@@ -1,0 +1,9 @@
+c:\users\carson\documents\visual studio 2015\Projects\WinGrid\WinGrid\bin\Debug\WinGrid.exe.config
+c:\users\carson\documents\visual studio 2015\Projects\WinGrid\WinGrid\bin\Debug\WinGrid.exe
+c:\users\carson\documents\visual studio 2015\Projects\WinGrid\WinGrid\bin\Debug\WinGrid.pdb
+c:\users\carson\documents\visual studio 2015\Projects\WinGrid\WinGrid\obj\Debug\WinGrid.csprojResolveAssemblyReference.cache
+c:\users\carson\documents\visual studio 2015\Projects\WinGrid\WinGrid\obj\Debug\WinGrid.Form1.resources
+c:\users\carson\documents\visual studio 2015\Projects\WinGrid\WinGrid\obj\Debug\WinGrid.Properties.Resources.resources
+c:\users\carson\documents\visual studio 2015\Projects\WinGrid\WinGrid\obj\Debug\WinGrid.csproj.GenerateResource.Cache
+c:\users\carson\documents\visual studio 2015\Projects\WinGrid\WinGrid\obj\Debug\WinGrid.exe
+c:\users\carson\documents\visual studio 2015\Projects\WinGrid\WinGrid\obj\Debug\WinGrid.pdb
